@@ -25,3 +25,5 @@ Il Client di Angular Chat è realizzato con ... Angular. Per effettuare lo start
    # npm install             
    # ng serve
 ```
+
+Utilizza un browser per accedere all'applicazione disponibile sulla porta 4200
