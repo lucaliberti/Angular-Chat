@@ -13,7 +13,8 @@ Il server di Angular Chat è realizzato con Node. Per effettuare lo start
 ```bash
    # cd Chat-Node-Server
    # npm install               
-   # ng serve
+   # npm start
+```
 
 ## Il Client di Angular-Chat
 
